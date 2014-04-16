@@ -3,8 +3,7 @@ import sys
 
 # Instructions on how to use the script in case there's an error.
 def usage():
-	print "linkdump.py - a simple tool to dump all hyperlinks from an URL."
-	print ""
+	print "linkdump.py - a simple tool to dump all hyperlinks from an URL.\n"
 	print "usage: 'python linkdump.py http://copypastedurl.com/'"
 
 # The fuction responsible for retrieving the href http links from the URL given.
